@@ -35,10 +35,10 @@ DIR_ESTADO = RAIZ / "estado"
 ARCHIVO_VISTOS = DIR_ESTADO / "vistos.json"
 ARCHIVO_EPISODIOS = DIR_ESTADO / "episodios.json"
 
-VOZ = os.environ.get("VOZ_TTS", "es-MX-JorgeNeural")  # alternativa: es-MX-DaliaNeural
+VOZ = os.environ.get("VOZ_TTS", "es-MX-DaliaNeural")  # alternativa: es-MX-DaliaNeural
 VELOCIDAD = os.environ.get("VELOCIDAD_TTS", "+0%")     # ej. "+10%" para mas rapido
-MAX_NUEVOS_POR_CORRIDA = int(os.environ.get("MAX_NUEVOS", "5"))
-MAX_EPISODIOS_GUARDADOS = int(os.environ.get("MAX_EPISODIOS", "40"))
+MAX_NUEVOS_POR_CORRIDA = int(os.environ.get("MAX_NUEVOS", "10"))
+MAX_EPISODIOS_GUARDADOS = int(os.environ.get("MAX_EPISODIOS", "100"))
 MAX_CARACTERES = 60_000  # corte de seguridad para articulos larguisimos
 
 TITULO_PODCAST = os.environ.get("TITULO_PODCAST", "Mis articulos en audio")
