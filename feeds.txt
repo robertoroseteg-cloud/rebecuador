@@ -3,4 +3,4 @@
 # Ejemplos (reemplazalos por los tuyos):
 # https://desinformemonos.org/feed/
 # https://www.animalpolitico.com/feed
-https://desinformemonos.org/category/columnas/feed/
+https://politepaul.com/fd/R0CxxKfNGGfQ.xml
