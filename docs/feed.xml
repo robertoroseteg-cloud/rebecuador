@@ -2,18 +2,98 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Mis articulos en audio</title>
-    <link>https://robertoroseteg-cloud.github.io/rd</link>
+    <link>https://robertoroseteg-cloud.github.io/desinfo_columnas</link>
     <description>Articulos de mis feeds RSS convertidos a audio automaticamente.</description>
     <language>es</language>
     <itunes:author>Pipeline automatico</itunes:author>
     
+    <item>
+      <title>Zulema, la intrépida “Claudia”</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/zulema-la-intrepida-claudia/</description>
+      <link>https://desinformemonos.org/zulema-la-intrepida-claudia/</link>
+      <guid isPermaLink="false">7c8d7b4aa7411b09</guid>
+      <pubDate>Sun, 05 Jul 2026 07:18:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/7c8d7b4aa7411b09.mp3" length="5579136" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Las guerras por Guerrero</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/las-guerras-por-guerrero-2/</description>
+      <link>https://desinformemonos.org/las-guerras-por-guerrero-2/</link>
+      <guid isPermaLink="false">b9c7c02dd55c5ef7</guid>
+      <pubDate>Sun, 05 Jul 2026 07:18:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/b9c7c02dd55c5ef7.mp3" length="3403296" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuando el capital invocó a la patria fue para colonizar territorio mapuche</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</description>
+      <link>https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</link>
+      <guid isPermaLink="false">0476f85ad805e9dc</guid>
+      <pubDate>Sun, 05 Jul 2026 07:17:24 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/0476f85ad805e9dc.mp3" length="3473856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chile y Argentina: Dos Estados contra un mismo territorio (fronteras que se derriten al toque del capital)</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</description>
+      <link>https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</link>
+      <guid isPermaLink="false">93288eccb26a0137</guid>
+      <pubDate>Sun, 05 Jul 2026 07:16:52 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/93288eccb26a0137.mp3" length="1488240" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pero dos lo zarandeaban para que se callara</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</description>
+      <link>https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</link>
+      <guid isPermaLink="false">2a34cb5da8e007d8</guid>
+      <pubDate>Sun, 05 Jul 2026 07:16:35 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/2a34cb5da8e007d8.mp3" length="3647376" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Violencia fatal e impunidad contra pueblos indígenas en Paraguay</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</description>
+      <link>https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</link>
+      <guid isPermaLink="false">bd51fc61a35596c8</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:58 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/bd51fc61a35596c8.mp3" length="1241856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lo político en Cecosesola</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/lo-politico-en-cecosesola/</description>
+      <link>https://desinformemonos.org/lo-politico-en-cecosesola/</link>
+      <guid isPermaLink="false">731770e3cc47abd7</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/731770e3cc47abd7.mp3" length="1417824" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Maternidades en espera: ser madre y solicitar asilo en México</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</description>
+      <link>https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</link>
+      <guid isPermaLink="false">aa0cd6c5f0b33f27</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:37 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/aa0cd6c5f0b33f27.mp3" length="2482848" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Del plan Colombia al Plan Ecuador. Reconfigurando la arquitectura imperial</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</description>
+      <link>https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</link>
+      <guid isPermaLink="false">599f2175eaa58998</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:16 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/599f2175eaa58998.mp3" length="4633776" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>UNESCO, GEF, CAF y el Acuífero Guaraní. Un nuevo requerimiento sin agua bendita</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</description>
+      <link>https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</link>
+      <guid isPermaLink="false">dbfeb9bd6a06d9f0</guid>
+      <pubDate>Sun, 05 Jul 2026 07:14:31 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/dbfeb9bd6a06d9f0.mp3" length="1661328" type="audio/mpeg"/>
+    </item>
     <item>
       <title>La mejor ayuda para Venezuela es levantar el bloqueo</title>
       <description>Venezuela – Rebelion — https://rebelion.org/la-mejor-ayuda-para-venezuela-es-levantar-el-bloqueo/</description>
       <link>https://rebelion.org/la-mejor-ayuda-para-venezuela-es-levantar-el-bloqueo/</link>
       <guid isPermaLink="false">9ab010c1c4dc0d72</guid>
       <pubDate>Sun, 05 Jul 2026 06:04:36 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/9ab010c1c4dc0d72.mp3" length="1422144" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/9ab010c1c4dc0d72.mp3" length="1422144" type="audio/mpeg"/>
     </item>
     <item>
       <title>Reflexiones sobre el día que tembló la tierra</title>
@@ -21,7 +101,7 @@
       <link>https://rebelion.org/reflexiones-sobre-el-dia-cuando-temblo-la-tierra/</link>
       <guid isPermaLink="false">1f84211339589cd4</guid>
       <pubDate>Sun, 05 Jul 2026 06:04:11 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/1f84211339589cd4.mp3" length="3278304" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/1f84211339589cd4.mp3" length="3278304" type="audio/mpeg"/>
     </item>
     <item>
       <title>Posterremoto en Venezuela: el riesgo de una ocupación militar disfrazada de reconstrucción</title>
@@ -29,7 +109,7 @@
       <link>https://rebelion.org/posterremoto-en-venezuela-el-riesgo-de-una-ocupacion-militar-disfrazada-de-reconstruccion/</link>
       <guid isPermaLink="false">415e157481f468c8</guid>
       <pubDate>Sun, 05 Jul 2026 06:03:40 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/415e157481f468c8.mp3" length="3322800" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/415e157481f468c8.mp3" length="3322800" type="audio/mpeg"/>
     </item>
     <item>
       <title>Venezuela: que los escombros no tapen la realidad</title>
@@ -37,7 +117,7 @@
       <link>https://rebelion.org/venezuela-que-los-escombros-no-tapen-la-realidad/</link>
       <guid isPermaLink="false">1624460c840980c7</guid>
       <pubDate>Sun, 05 Jul 2026 06:03:06 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/1624460c840980c7.mp3" length="2353536" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/1624460c840980c7.mp3" length="2353536" type="audio/mpeg"/>
     </item>
     <item>
       <title>Manipular la tragedia humana de Venezuela</title>
@@ -45,7 +125,7 @@
       <link>https://rebelion.org/manipular-la-tragedia-humana-de-venezuela/</link>
       <guid isPermaLink="false">674b118ea7216a6b</guid>
       <pubDate>Sun, 05 Jul 2026 06:02:45 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/674b118ea7216a6b.mp3" length="2231280" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/674b118ea7216a6b.mp3" length="2231280" type="audio/mpeg"/>
     </item>
     <item>
       <title>El Comité Cerezo, 25 años de lucha por los DDHH y la dignidad de los pueblos</title>
@@ -53,7 +133,7 @@
       <link>https://rebelion.org/el-comite-cerezo-25-anos-de-lucha-por-los-ddhh-y-la-dignidad-de-los-pueblos/</link>
       <guid isPermaLink="false">4ecf9bb8abc53102</guid>
       <pubDate>Sun, 05 Jul 2026 06:02:26 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/4ecf9bb8abc53102.mp3" length="18442368" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/4ecf9bb8abc53102.mp3" length="18442368" type="audio/mpeg"/>
     </item>
     <item>
       <title>Entre Escila y Caribdis</title>
@@ -61,7 +141,7 @@
       <link>https://rebelion.org/entre-escila-y-caribdis-2/</link>
       <guid isPermaLink="false">87c8030ab04ec2e8</guid>
       <pubDate>Sun, 05 Jul 2026 05:59:28 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/87c8030ab04ec2e8.mp3" length="2885904" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/87c8030ab04ec2e8.mp3" length="2885904" type="audio/mpeg"/>
     </item>
     <item>
       <title>La protesta social y el interés privado</title>
@@ -69,7 +149,7 @@
       <link>https://rebelion.org/la-protesta-social-y-el-interes-privado/</link>
       <guid isPermaLink="false">9bad6af9272daad6</guid>
       <pubDate>Sun, 05 Jul 2026 05:58:48 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/9bad6af9272daad6.mp3" length="3480768" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/9bad6af9272daad6.mp3" length="3480768" type="audio/mpeg"/>
     </item>
     <item>
       <title>Thyssenkrupp: empresa alemana acusada de financiar un genocidio y un ecocidio</title>
@@ -77,7 +157,7 @@
       <link>https://rebelion.org/thyssenkrupp-empresa-alemana-acusada-de-financiar-un-genocidio-y-un-ecocidio/</link>
       <guid isPermaLink="false">52deead95de6a4d8</guid>
       <pubDate>Sun, 05 Jul 2026 05:58:03 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/52deead95de6a4d8.mp3" length="2084256" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/52deead95de6a4d8.mp3" length="2084256" type="audio/mpeg"/>
     </item>
     <item>
       <title>La psicología del mexicano</title>
@@ -85,287 +165,7 @@
       <link>https://rebelion.org/la-psicologia-del-mexicano/</link>
       <guid isPermaLink="false">1b83d6094773ac5e</guid>
       <pubDate>Sun, 05 Jul 2026 05:57:39 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/1b83d6094773ac5e.mp3" length="2362608" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Los maestros y el legado neoliberal</title>
-      <description>México – Rebelion — https://rebelion.org/los-maestros-y-el-legado-neoliberal/</description>
-      <link>https://rebelion.org/los-maestros-y-el-legado-neoliberal/</link>
-      <guid isPermaLink="false">23ef290911d118bc</guid>
-      <pubDate>Sun, 05 Jul 2026 05:57:12 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/23ef290911d118bc.mp3" length="1638720" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Las reformas laborales de la 4T</title>
-      <description>México – Rebelion — https://rebelion.org/las-reformas-laborales-de-la-4t/</description>
-      <link>https://rebelion.org/las-reformas-laborales-de-la-4t/</link>
-      <guid isPermaLink="false">8de1925c0359b836</guid>
-      <pubDate>Sun, 05 Jul 2026 05:56:52 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/8de1925c0359b836.mp3" length="3079152" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La economía de guerra de Occidente se adentra en una bahía en Sinaloa</title>
-      <description>México – Rebelion — https://rebelion.org/la-economia-de-guerra-de-occidente-se-adentra-en-una-bahia-en-sinaloa/</description>
-      <link>https://rebelion.org/la-economia-de-guerra-de-occidente-se-adentra-en-una-bahia-en-sinaloa/</link>
-      <guid isPermaLink="false">097bfc7bd120039b</guid>
-      <pubDate>Sun, 05 Jul 2026 05:56:16 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/097bfc7bd120039b.mp3" length="6026688" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Papel de los intelectuales mexicanos frente a las ofensivas mediáticas contra la 4T</title>
-      <description>México – Rebelion — https://rebelion.org/papel-de-los-intelectuales-mexicanos-frente-a-las-ofensivas-mediaticas-contra-la-4t/</description>
-      <link>https://rebelion.org/papel-de-los-intelectuales-mexicanos-frente-a-las-ofensivas-mediaticas-contra-la-4t/</link>
-      <guid isPermaLink="false">b1453f3b89f4a667</guid>
-      <pubDate>Sun, 05 Jul 2026 05:55:13 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/b1453f3b89f4a667.mp3" length="3047040" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Estados Unidos, capital de la corrupción</title>
-      <description>México – Rebelion — https://rebelion.org/estados-unidos-capital-de-la-corrupcion/</description>
-      <link>https://rebelion.org/estados-unidos-capital-de-la-corrupcion/</link>
-      <guid isPermaLink="false">13e1062cc48560e9</guid>
-      <pubDate>Sun, 05 Jul 2026 05:54:46 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/13e1062cc48560e9.mp3" length="1805328" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>50 años con la Iglesia latinoamericana de los pobres</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/50-anos-con-la-iglesia-latinoamericana-de-los-pobres/</description>
-      <link>https://rebelion.org/50-anos-con-la-iglesia-latinoamericana-de-los-pobres/</link>
-      <guid isPermaLink="false">800301aca7d22680</guid>
-      <pubDate>Sun, 05 Jul 2026 05:54:29 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/800301aca7d22680.mp3" length="2410848" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Aspectos importantes para el estudio de las lenguas indígenas ecuatorianas</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/aspectos-importantes-para-el-estudio-de-las-lenguas-indigenas-ecuatorianas/</description>
-      <link>https://rebelion.org/aspectos-importantes-para-el-estudio-de-las-lenguas-indigenas-ecuatorianas/</link>
-      <guid isPermaLink="false">03d5b55f673a36f0</guid>
-      <pubDate>Sun, 05 Jul 2026 05:54:05 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/03d5b55f673a36f0.mp3" length="19951488" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Centenario del Partido Socialista y del Partido Comunista de Ecuador</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/centenario-del-partido-socialista-y-del-partido-comunista-del-ecuador/</description>
-      <link>https://rebelion.org/centenario-del-partido-socialista-y-del-partido-comunista-del-ecuador/</link>
-      <guid isPermaLink="false">0c5d3af20ddd7b23</guid>
-      <pubDate>Sun, 05 Jul 2026 05:51:00 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/0c5d3af20ddd7b23.mp3" length="2877264" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>38 años no cambiaron nada</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/38-anos-no-cambiaron-nada/</description>
-      <link>https://rebelion.org/38-anos-no-cambiaron-nada/</link>
-      <guid isPermaLink="false">1b07f21d668937b6</guid>
-      <pubDate>Sun, 05 Jul 2026 05:50:36 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/1b07f21d668937b6.mp3" length="3560112" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Otro territorio de sacrificio</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/otro-territorio-de-sacrificio/</description>
-      <link>https://rebelion.org/otro-territorio-de-sacrificio/</link>
-      <guid isPermaLink="false">16267cbb98610e50</guid>
-      <pubDate>Sun, 05 Jul 2026 05:50:06 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/16267cbb98610e50.mp3" length="4957920" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿Por qué quieren «interpretar» la prohibición constitucional del arbitraje internacional?</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/por-que-quieren-interpretar-la-prohibicion-constitucional-del-arbitraje-internacional/</description>
-      <link>https://rebelion.org/por-que-quieren-interpretar-la-prohibicion-constitucional-del-arbitraje-internacional/</link>
-      <guid isPermaLink="false">5b5c09c34afc5f2e</guid>
-      <pubDate>Sun, 05 Jul 2026 05:49:08 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/5b5c09c34afc5f2e.mp3" length="2183760" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Ultraderecha, violencias y reacción patriarcal en el Ecuador de Noboa</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/ultraderecha-violencias-y-reaccion-patriarcal-en-el-ecuador-de-noboa/</description>
-      <link>https://rebelion.org/ultraderecha-violencias-y-reaccion-patriarcal-en-el-ecuador-de-noboa/</link>
-      <guid isPermaLink="false">87b45e3f79e798db</guid>
-      <pubDate>Sun, 05 Jul 2026 05:48:06 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/87b45e3f79e798db.mp3" length="10371312" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Ecuador ingresa en categoría de alto riesgo, según el Índice Global de Tortura (2026)</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/ecuador-ingresa-en-categoria-de-alto-riesgo-segun-el-indice-global-de-tortura-2026/</description>
-      <link>https://rebelion.org/ecuador-ingresa-en-categoria-de-alto-riesgo-segun-el-indice-global-de-tortura-2026/</link>
-      <guid isPermaLink="false">670946e6c2cedecc</guid>
-      <pubDate>Sun, 05 Jul 2026 05:46:16 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/670946e6c2cedecc.mp3" length="741888" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Explosiones en Quito y la fragilidad del orden</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/explosiones-en-quito-y-la-fragilidad-del-orden/</description>
-      <link>https://rebelion.org/explosiones-en-quito-y-la-fragilidad-del-orden/</link>
-      <guid isPermaLink="false">54c2433d0edf90e4</guid>
-      <pubDate>Sun, 05 Jul 2026 05:46:08 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/54c2433d0edf90e4.mp3" length="1191888" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Ministerio de Defensa debe entregar información sobre detenidos desaparecidos</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/ministerio-de-defensa-debe-entregar-informacion-sobre-detenidos-desaparecidos/</description>
-      <link>https://rebelion.org/ministerio-de-defensa-debe-entregar-informacion-sobre-detenidos-desaparecidos/</link>
-      <guid isPermaLink="false">f44c6dcfc5d55856</guid>
-      <pubDate>Sun, 05 Jul 2026 05:45:56 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/f44c6dcfc5d55856.mp3" length="1154160" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿Qué cambios se producirán en Cuba tras las reformas estatales propuestas?</title>
-      <description>Cuba – Rebelion — https://rebelion.org/que-cambios-se-produciran-en-cuba-tras-las-reformas-estatales-propuestas/</description>
-      <link>https://rebelion.org/que-cambios-se-produciran-en-cuba-tras-las-reformas-estatales-propuestas/</link>
-      <guid isPermaLink="false">a26e92542e636f9f</guid>
-      <pubDate>Sun, 05 Jul 2026 05:45:46 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/a26e92542e636f9f.mp3" length="2379312" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El proyecto martiano de transformación cultural civilizatoria: visiones comparadas</title>
-      <description>Cuba – Rebelion — https://rebelion.org/el-proyecto-martiano-de-transformacion-cultural-civilizatoria-visiones-comparadas/</description>
-      <link>https://rebelion.org/el-proyecto-martiano-de-transformacion-cultural-civilizatoria-visiones-comparadas/</link>
-      <guid isPermaLink="false">720f120e7a779c8d</guid>
-      <pubDate>Sun, 05 Jul 2026 05:45:20 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/720f120e7a779c8d.mp3" length="7267536" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Cuba recibe nuevo apoyo en la Conferencia Labor Notes de Activistas Obreros</title>
-      <description>Cuba – Rebelion — https://rebelion.org/cuba-recibe-nuevo-apoyo-en-la-conferencia-labor-notes-de-activistas-obreros/</description>
-      <link>https://rebelion.org/cuba-recibe-nuevo-apoyo-en-la-conferencia-labor-notes-de-activistas-obreros/</link>
-      <guid isPermaLink="false">ca470a4b6ef594f2</guid>
-      <pubDate>Sun, 05 Jul 2026 05:43:58 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/ca470a4b6ef594f2.mp3" length="2470032" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mortalidad infantil aumenta en Cuba debido a la guerra económica de Estados Unidos, apunta informe oficial</title>
-      <description>Cuba – Rebelion — https://rebelion.org/mortalidad-infantil-aumenta-en-cuba-debido-a-la-guerra-economica-de-estados-unidos-apunta-informe-oficial/</description>
-      <link>https://rebelion.org/mortalidad-infantil-aumenta-en-cuba-debido-a-la-guerra-economica-de-estados-unidos-apunta-informe-oficial/</link>
-      <guid isPermaLink="false">17c042488784f15d</guid>
-      <pubDate>Sun, 05 Jul 2026 05:43:36 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/17c042488784f15d.mp3" length="2703888" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La resolución de la vergüenza del Parlamento Europeo</title>
-      <description>Cuba – Rebelion — https://rebelion.org/la-resolucion-de-la-verguenza-del-parlamento-europeo/</description>
-      <link>https://rebelion.org/la-resolucion-de-la-verguenza-del-parlamento-europeo/</link>
-      <guid isPermaLink="false">f2780794ba869c3c</guid>
-      <pubDate>Sun, 05 Jul 2026 05:43:11 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/f2780794ba869c3c.mp3" length="2084976" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Cuba y la vía china: reformas sin retorno</title>
-      <description>Cuba – Rebelion — https://rebelion.org/cuba-y-la-via-china-reformas-sin-retorno/</description>
-      <link>https://rebelion.org/cuba-y-la-via-china-reformas-sin-retorno/</link>
-      <guid isPermaLink="false">61b1a897ba78a8db</guid>
-      <pubDate>Sun, 05 Jul 2026 05:34:43 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/61b1a897ba78a8db.mp3" length="3104496" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Cuba y la lógica del depredador</title>
-      <description>Cuba – Rebelion — https://rebelion.org/cuba-y-la-logica-del-depredador/</description>
-      <link>https://rebelion.org/cuba-y-la-logica-del-depredador/</link>
-      <guid isPermaLink="false">7268f81da06c05e1</guid>
-      <pubDate>Sun, 05 Jul 2026 05:34:18 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/7268f81da06c05e1.mp3" length="7367040" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Exitosa manifestación de solidaridad con Cuba en Suiza</title>
-      <description>Cuba – Rebelion — https://rebelion.org/exitosa-manifestacion-de-solidaridad-con-cuba-en-suiza/</description>
-      <link>https://rebelion.org/exitosa-manifestacion-de-solidaridad-con-cuba-en-suiza/</link>
-      <guid isPermaLink="false">6ec1036fae22ab45</guid>
-      <pubDate>Sun, 05 Jul 2026 05:32:57 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/6ec1036fae22ab45.mp3" length="843552" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Marco Rubio, deshonesto y mendaz</title>
-      <description>Cuba – Rebelion — https://rebelion.org/marco-rubio-deshonesto-y-mendaz/</description>
-      <link>https://rebelion.org/marco-rubio-deshonesto-y-mendaz/</link>
-      <guid isPermaLink="false">471c33dc19ffeb60</guid>
-      <pubDate>Sun, 05 Jul 2026 05:32:48 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/471c33dc19ffeb60.mp3" length="1405296" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>1960 – El sueño de controlar la mente (ajena)</title>
-      <description>Cuba – Rebelion — https://rebelion.org/1960-el-sueno-de-controlar-la-mente-ajena/</description>
-      <link>https://rebelion.org/1960-el-sueno-de-controlar-la-mente-ajena/</link>
-      <guid isPermaLink="false">ef0bd71d19799526</guid>
-      <pubDate>Sun, 05 Jul 2026 05:32:32 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/ef0bd71d19799526.mp3" length="4922928" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Condena judicial contra el Grupo Eurnekian y sus fumigaciones con agrotóxicos en Chaco</title>
-      <description>Argentina – Rebelion — https://rebelion.org/condena-judicial-contra-el-grupo-eurnekian-y-sus-fumigaciones-con-agrotoxicos-en-chaco/</description>
-      <link>https://rebelion.org/condena-judicial-contra-el-grupo-eurnekian-y-sus-fumigaciones-con-agrotoxicos-en-chaco/</link>
-      <guid isPermaLink="false">dcb2c00ba85bd7eb</guid>
-      <pubDate>Sun, 05 Jul 2026 05:31:32 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/dcb2c00ba85bd7eb.mp3" length="5590944" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El traslado de Facundo Jones Huala a Esquel fue suspendido</title>
-      <description>Argentina – Rebelion — https://rebelion.org/el-traslado-de-facundo-jones-huala-a-esquel-fue-suspendido/</description>
-      <link>https://rebelion.org/el-traslado-de-facundo-jones-huala-a-esquel-fue-suspendido/</link>
-      <guid isPermaLink="false">b838a1c8c9415c79</guid>
-      <pubDate>Sun, 05 Jul 2026 05:30:48 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/b838a1c8c9415c79.mp3" length="25464240" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Las derechas argentinas: Un oprobio persistente</title>
-      <description>Argentina – Rebelion — https://rebelion.org/las-derechas-argentinas-un-oprobio-persistente/</description>
-      <link>https://rebelion.org/las-derechas-argentinas-un-oprobio-persistente/</link>
-      <guid isPermaLink="false">605d66cfa6b81e9a</guid>
-      <pubDate>Sun, 05 Jul 2026 05:26:59 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/605d66cfa6b81e9a.mp3" length="7099344" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Se cumplieron 50 años del asesinato de «Paco» Urondo</title>
-      <description>Argentina – Rebelion — https://rebelion.org/se-cumplieron-50-anos-del-asesinato-de-paco-urondo/</description>
-      <link>https://rebelion.org/se-cumplieron-50-anos-del-asesinato-de-paco-urondo/</link>
-      <guid isPermaLink="false">b3a0b50e757adc60</guid>
-      <pubDate>Sun, 05 Jul 2026 05:25:37 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/b3a0b50e757adc60.mp3" length="9072000" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Annobón y Argentina: un vinculo «virreinal» y un reclamo de justicia</title>
-      <description>Argentina – Rebelion — https://rebelion.org/annobon-y-argentina-un-vinculo-virreinal-y-un-reclamo-de-justicia/</description>
-      <link>https://rebelion.org/annobon-y-argentina-un-vinculo-virreinal-y-un-reclamo-de-justicia/</link>
-      <guid isPermaLink="false">b41ed67d2101c075</guid>
-      <pubDate>Sun, 05 Jul 2026 05:23:53 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/b41ed67d2101c075.mp3" length="3287808" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Buscando ideas para minimizar la pobreza</title>
-      <description>Argentina – Rebelion — https://rebelion.org/buscando-ideas-para-minimizar-la-pobreza/</description>
-      <link>https://rebelion.org/buscando-ideas-para-minimizar-la-pobreza/</link>
-      <guid isPermaLink="false">e430ce93225e4c8e</guid>
-      <pubDate>Sun, 05 Jul 2026 05:07:56 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/e430ce93225e4c8e.mp3" length="1635696" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Los libertarios piensan avanzar incluso sin Milei</title>
-      <description>Argentina – Rebelion — https://rebelion.org/los-libertarios-piensan-avanzar-incluso-sin-milei/</description>
-      <link>https://rebelion.org/los-libertarios-piensan-avanzar-incluso-sin-milei/</link>
-      <guid isPermaLink="false">edc9f0f0e1af1851</guid>
-      <pubDate>Sun, 05 Jul 2026 05:07:38 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/edc9f0f0e1af1851.mp3" length="3268224" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Por fin renunció Adorni: las políticas destructivas siguen</title>
-      <description>Argentina – Rebelion — https://rebelion.org/por-fin-renuncio-adorni-las-politicas-destructivas-siguen/</description>
-      <link>https://rebelion.org/por-fin-renuncio-adorni-las-politicas-destructivas-siguen/</link>
-      <guid isPermaLink="false">c2e3abb97db2b297</guid>
-      <pubDate>Sun, 05 Jul 2026 05:07:16 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/c2e3abb97db2b297.mp3" length="4372272" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Argentina, trabajadores de cooperativas:  hartos de esperar respuestas a sus justas reclamaciones</title>
-      <description>Argentina – Rebelion — https://rebelion.org/argentina-trabajadores-de-cooperativas-hartos-de-esperar-respuestas-a-sus-justas-reclamaciones/</description>
-      <link>https://rebelion.org/argentina-trabajadores-de-cooperativas-hartos-de-esperar-respuestas-a-sus-justas-reclamaciones/</link>
-      <guid isPermaLink="false">8bebbdf261067e67</guid>
-      <pubDate>Sun, 05 Jul 2026 05:06:44 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/8bebbdf261067e67.mp3" length="1576512" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Juicio por fumigaciones en Pergamino: jueces transgénicos y la impunidad del agronegocio</title>
-      <description>Argentina – Rebelion — https://rebelion.org/juicio-por-fumigaciones-en-pergamino-jueces-transgenicos-y-la-impunidad-del-agronegocio/</description>
-      <link>https://rebelion.org/juicio-por-fumigaciones-en-pergamino-jueces-transgenicos-y-la-impunidad-del-agronegocio/</link>
-      <guid isPermaLink="false">d8b477e99d9c2dc4</guid>
-      <pubDate>Sun, 05 Jul 2026 05:06:30 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rd/episodios/d8b477e99d9c2dc4.mp3" length="2802528" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfo_columnas/episodios/1b83d6094773ac5e.mp3" length="2362608" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
