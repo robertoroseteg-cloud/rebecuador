@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La peligrosa ruta de la proscripción la Revolución Ciudadana</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/la-peligrosa-ruta-de-la-proscripcion-la-revolucion-ciudadana/</description>
+      <link>https://rebelion.org/la-peligrosa-ruta-de-la-proscripcion-la-revolucion-ciudadana/</link>
+      <guid isPermaLink="false">f372498801019b94</guid>
+      <pubDate>Tue, 21 Jul 2026 17:01:30 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/f372498801019b94.mp3" length="1043856" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>¿Violencia hasta cuándo?</title>
       <description>Ecuador – Rebelion — https://rebelion.org/violencia-hasta-cuando-2/</description>
       <link>https://rebelion.org/violencia-hasta-cuando-2/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">674b118ea7216a6b</guid>
       <pubDate>Sun, 05 Jul 2026 06:02:45 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/674b118ea7216a6b.mp3" length="2231280" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El Comité Cerezo, 25 años de lucha por los DDHH y la dignidad de los pueblos</title>
-      <description>México – Rebelion — https://rebelion.org/el-comite-cerezo-25-anos-de-lucha-por-los-ddhh-y-la-dignidad-de-los-pueblos/</description>
-      <link>https://rebelion.org/el-comite-cerezo-25-anos-de-lucha-por-los-ddhh-y-la-dignidad-de-los-pueblos/</link>
-      <guid isPermaLink="false">4ecf9bb8abc53102</guid>
-      <pubDate>Sun, 05 Jul 2026 06:02:26 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/4ecf9bb8abc53102.mp3" length="18442368" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
