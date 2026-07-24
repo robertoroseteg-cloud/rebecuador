@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Asesinan a la fiscal que investigaba ataques estadounidenses contra pescadores ecuatorianos y denuncias de tortura</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/asesinan-a-la-fiscal-que-investigaba-ataques-estadounidenses-contra-pescadores-ecuatorianos-y-denuncias-de-tortura/</description>
+      <link>https://rebelion.org/asesinan-a-la-fiscal-que-investigaba-ataques-estadounidenses-contra-pescadores-ecuatorianos-y-denuncias-de-tortura/</link>
+      <guid isPermaLink="false">8f398a19498f3677</guid>
+      <pubDate>Fri, 24 Jul 2026 17:18:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/8f398a19498f3677.mp3" length="9652608" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La peligrosa ruta de la proscripción la Revolución Ciudadana</title>
       <description>Ecuador – Rebelion — https://rebelion.org/la-peligrosa-ruta-de-la-proscripcion-la-revolucion-ciudadana/</description>
       <link>https://rebelion.org/la-peligrosa-ruta-de-la-proscripcion-la-revolucion-ciudadana/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">1624460c840980c7</guid>
       <pubDate>Sun, 05 Jul 2026 06:03:06 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/1624460c840980c7.mp3" length="2353536" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Manipular la tragedia humana de Venezuela</title>
-      <description>Venezuela – Rebelion — https://rebelion.org/manipular-la-tragedia-humana-de-venezuela/</description>
-      <link>https://rebelion.org/manipular-la-tragedia-humana-de-venezuela/</link>
-      <guid isPermaLink="false">674b118ea7216a6b</guid>
-      <pubDate>Sun, 05 Jul 2026 06:02:45 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/674b118ea7216a6b.mp3" length="2231280" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
