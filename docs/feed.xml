@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Candidatos para el ecosocialismo</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/candidatos-para-el-ecosocialismo/</description>
+      <link>https://rebelion.org/candidatos-para-el-ecosocialismo/</link>
+      <guid isPermaLink="false">d8a124c41d495f2c</guid>
+      <pubDate>Tue, 28 Jul 2026 17:13:40 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/d8a124c41d495f2c.mp3" length="1972800" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Asesinan a la fiscal que investigaba ataques estadounidenses contra pescadores ecuatorianos y denuncias de tortura</title>
       <description>Ecuador – Rebelion — https://rebelion.org/asesinan-a-la-fiscal-que-investigaba-ataques-estadounidenses-contra-pescadores-ecuatorianos-y-denuncias-de-tortura/</description>
       <link>https://rebelion.org/asesinan-a-la-fiscal-que-investigaba-ataques-estadounidenses-contra-pescadores-ecuatorianos-y-denuncias-de-tortura/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">415e157481f468c8</guid>
       <pubDate>Sun, 05 Jul 2026 06:03:40 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/415e157481f468c8.mp3" length="3322800" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Venezuela: que los escombros no tapen la realidad</title>
-      <description>Venezuela – Rebelion — https://rebelion.org/venezuela-que-los-escombros-no-tapen-la-realidad/</description>
-      <link>https://rebelion.org/venezuela-que-los-escombros-no-tapen-la-realidad/</link>
-      <guid isPermaLink="false">1624460c840980c7</guid>
-      <pubDate>Sun, 05 Jul 2026 06:03:06 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/1624460c840980c7.mp3" length="2353536" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
