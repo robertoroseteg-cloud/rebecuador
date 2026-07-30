@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Si esto no es una dictadura, ¿qué es?</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/si-esto-no-es-una-dictadura-que-es/</description>
+      <link>https://rebelion.org/si-esto-no-es-una-dictadura-que-es/</link>
+      <guid isPermaLink="false">a3b003a3ef0f9c52</guid>
+      <pubDate>Thu, 30 Jul 2026 14:25:22 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/a3b003a3ef0f9c52.mp3" length="981072" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Candidatos para el ecosocialismo</title>
       <description>Ecuador – Rebelion — https://rebelion.org/candidatos-para-el-ecosocialismo/</description>
       <link>https://rebelion.org/candidatos-para-el-ecosocialismo/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">1f84211339589cd4</guid>
       <pubDate>Sun, 05 Jul 2026 06:04:11 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/1f84211339589cd4.mp3" length="3278304" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Posterremoto en Venezuela: el riesgo de una ocupación militar disfrazada de reconstrucción</title>
-      <description>Venezuela – Rebelion — https://rebelion.org/posterremoto-en-venezuela-el-riesgo-de-una-ocupacion-militar-disfrazada-de-reconstruccion/</description>
-      <link>https://rebelion.org/posterremoto-en-venezuela-el-riesgo-de-una-ocupacion-militar-disfrazada-de-reconstruccion/</link>
-      <guid isPermaLink="false">415e157481f468c8</guid>
-      <pubDate>Sun, 05 Jul 2026 06:03:40 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/415e157481f468c8.mp3" length="3322800" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
