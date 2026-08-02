@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>¿Cómo la cultura y el voluntariado enfrentan la desatención de la Amazonía ecuatoriana?</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/como-la-cultura-y-el-voluntariado-enfrentan-la-desatencion-de-la-amazonia-ecuatoriana/</description>
+      <link>https://rebelion.org/como-la-cultura-y-el-voluntariado-enfrentan-la-desatencion-de-la-amazonia-ecuatoriana/</link>
+      <guid isPermaLink="false">1bcf32fcd7028824</guid>
+      <pubDate>Sun, 02 Aug 2026 13:46:38 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/1bcf32fcd7028824.mp3" length="2311920" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Si esto no es una dictadura, ¿qué es?</title>
       <description>Ecuador – Rebelion — https://rebelion.org/si-esto-no-es-una-dictadura-que-es/</description>
       <link>https://rebelion.org/si-esto-no-es-una-dictadura-que-es/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">9ab010c1c4dc0d72</guid>
       <pubDate>Sun, 05 Jul 2026 06:04:36 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/9ab010c1c4dc0d72.mp3" length="1422144" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Reflexiones sobre el día que tembló la tierra</title>
-      <description>Venezuela – Rebelion — https://rebelion.org/reflexiones-sobre-el-dia-cuando-temblo-la-tierra/</description>
-      <link>https://rebelion.org/reflexiones-sobre-el-dia-cuando-temblo-la-tierra/</link>
-      <guid isPermaLink="false">1f84211339589cd4</guid>
-      <pubDate>Sun, 05 Jul 2026 06:04:11 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/1f84211339589cd4.mp3" length="3278304" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
