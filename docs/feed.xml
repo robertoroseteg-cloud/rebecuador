@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Una cuasi dictadura alineada con la doctrina Donroe</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/una-cuasi-dictadura-alineada-con-la-doctrina-donroe/</description>
+      <link>https://rebelion.org/una-cuasi-dictadura-alineada-con-la-doctrina-donroe/</link>
+      <guid isPermaLink="false">cf08f982bbcda129</guid>
+      <pubDate>Thu, 06 Aug 2026 14:31:26 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/cf08f982bbcda129.mp3" length="2736144" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Femicidio político de Monika Silvia Koniuszek, defensora de Derechos Humanos</title>
       <description>Ecuador – Rebelion — https://rebelion.org/femicidio-politico-de-monika-silvia-koniuszek-defensora-de-derechos-humanos/</description>
       <link>https://rebelion.org/femicidio-politico-de-monika-silvia-koniuszek-defensora-de-derechos-humanos/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">599f2175eaa58998</guid>
       <pubDate>Sun, 05 Jul 2026 07:15:16 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/599f2175eaa58998.mp3" length="4633776" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>UNESCO, GEF, CAF y el Acuífero Guaraní. Un nuevo requerimiento sin agua bendita</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</description>
-      <link>https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</link>
-      <guid isPermaLink="false">dbfeb9bd6a06d9f0</guid>
-      <pubDate>Sun, 05 Jul 2026 07:14:31 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/dbfeb9bd6a06d9f0.mp3" length="1661328" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
