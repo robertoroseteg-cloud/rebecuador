@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Persecución y «lawfare»: el caso de Aquiles Álvarez, alcalde de Guayaquil</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/persecucion-y-lawfare-el-caso-del-alcalde-de-guayaquil/</description>
+      <link>https://rebelion.org/persecucion-y-lawfare-el-caso-del-alcalde-de-guayaquil/</link>
+      <guid isPermaLink="false">6f6e71fc01376125</guid>
+      <pubDate>Sat, 08 Aug 2026 13:06:19 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/6f6e71fc01376125.mp3" length="5700240" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Gravísima denuncia del juez Byron Uzcátegui por el caso Goleada</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/gravisima-denuncia-del-juez-byron-uzcategui-por-el-caso-goleada/</description>
+      <link>https://rebelion.org/gravisima-denuncia-del-juez-byron-uzcategui-por-el-caso-goleada/</link>
+      <guid isPermaLink="false">eec8185ae0eff5ad</guid>
+      <pubDate>Sat, 08 Aug 2026 13:05:21 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/eec8185ae0eff5ad.mp3" length="1320048" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Una cuasi dictadura alineada con la doctrina Donroe</title>
       <description>Ecuador – Rebelion — https://rebelion.org/una-cuasi-dictadura-alineada-con-la-doctrina-donroe/</description>
       <link>https://rebelion.org/una-cuasi-dictadura-alineada-con-la-doctrina-donroe/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">731770e3cc47abd7</guid>
       <pubDate>Sun, 05 Jul 2026 07:15:50 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/731770e3cc47abd7.mp3" length="1417824" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Maternidades en espera: ser madre y solicitar asilo en México</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</description>
-      <link>https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</link>
-      <guid isPermaLink="false">aa0cd6c5f0b33f27</guid>
-      <pubDate>Sun, 05 Jul 2026 07:15:37 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/aa0cd6c5f0b33f27.mp3" length="2482848" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Del plan Colombia al Plan Ecuador. Reconfigurando la arquitectura imperial</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</description>
-      <link>https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</link>
-      <guid isPermaLink="false">599f2175eaa58998</guid>
-      <pubDate>Sun, 05 Jul 2026 07:15:16 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/599f2175eaa58998.mp3" length="4633776" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
