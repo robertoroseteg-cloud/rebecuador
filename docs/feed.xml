@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>El palenke como laboratorio político</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/el-palenke-como-laboratorio-politico/</description>
+      <link>https://rebelion.org/el-palenke-como-laboratorio-politico/</link>
+      <guid isPermaLink="false">f4e8dd8c110c68f2</guid>
+      <pubDate>Mon, 10 Aug 2026 13:36:00 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/f4e8dd8c110c68f2.mp3" length="6819264" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Persecución y «lawfare»: el caso de Aquiles Álvarez, alcalde de Guayaquil</title>
       <description>Ecuador – Rebelion — https://rebelion.org/persecucion-y-lawfare-el-caso-del-alcalde-de-guayaquil/</description>
       <link>https://rebelion.org/persecucion-y-lawfare-el-caso-del-alcalde-de-guayaquil/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">bd51fc61a35596c8</guid>
       <pubDate>Sun, 05 Jul 2026 07:15:58 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/bd51fc61a35596c8.mp3" length="1241856" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lo político en Cecosesola</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/lo-politico-en-cecosesola/</description>
-      <link>https://desinformemonos.org/lo-politico-en-cecosesola/</link>
-      <guid isPermaLink="false">731770e3cc47abd7</guid>
-      <pubDate>Sun, 05 Jul 2026 07:15:50 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/731770e3cc47abd7.mp3" length="1417824" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
