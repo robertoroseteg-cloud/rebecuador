@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Miedos, violencias, militarización y neoliberalismo bajo Daniel Noboa</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/miedos-violencias-militarizacion-y-neoliberalismo-bajo-daniel-noboa/</description>
+      <link>https://rebelion.org/miedos-violencias-militarizacion-y-neoliberalismo-bajo-daniel-noboa/</link>
+      <guid isPermaLink="false">19c505a64f751e2c</guid>
+      <pubDate>Tue, 11 Aug 2026 13:28:01 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/19c505a64f751e2c.mp3" length="13124880" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El palenke como laboratorio político</title>
       <description>Ecuador – Rebelion — https://rebelion.org/el-palenke-como-laboratorio-politico/</description>
       <link>https://rebelion.org/el-palenke-como-laboratorio-politico/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">2a34cb5da8e007d8</guid>
       <pubDate>Sun, 05 Jul 2026 07:16:35 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/2a34cb5da8e007d8.mp3" length="3647376" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Violencia fatal e impunidad contra pueblos indígenas en Paraguay</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</description>
-      <link>https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</link>
-      <guid isPermaLink="false">bd51fc61a35596c8</guid>
-      <pubDate>Sun, 05 Jul 2026 07:15:58 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/bd51fc61a35596c8.mp3" length="1241856" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
