@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Primer grito de independencia del Ecuador</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/primer-grito-de-independencia-del-ecuador/</description>
+      <link>https://rebelion.org/primer-grito-de-independencia-del-ecuador/</link>
+      <guid isPermaLink="false">50065d096f84fbd1</guid>
+      <pubDate>Thu, 13 Aug 2026 13:36:36 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/50065d096f84fbd1.mp3" length="2900016" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Miedos, violencias, militarización y neoliberalismo bajo Daniel Noboa</title>
       <description>Ecuador – Rebelion — https://rebelion.org/miedos-violencias-militarizacion-y-neoliberalismo-bajo-daniel-noboa/</description>
       <link>https://rebelion.org/miedos-violencias-militarizacion-y-neoliberalismo-bajo-daniel-noboa/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">93288eccb26a0137</guid>
       <pubDate>Sun, 05 Jul 2026 07:16:52 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/93288eccb26a0137.mp3" length="1488240" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Pero dos lo zarandeaban para que se callara</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</description>
-      <link>https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</link>
-      <guid isPermaLink="false">2a34cb5da8e007d8</guid>
-      <pubDate>Sun, 05 Jul 2026 07:16:35 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/2a34cb5da8e007d8.mp3" length="3647376" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
