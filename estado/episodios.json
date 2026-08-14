@@ -1,5 +1,14 @@
 [
   {
+    "id": "662ed8bda7adb948",
+    "titulo": "La ignorancia y la audacia caminan juntas, ¡apoyando a la minería!",
+    "fuente": "Ecuador – Rebelion",
+    "enlace": "https://rebelion.org/la-ignorancia-y-la-audacia-caminan-juntas-apoyando-a-la-mineria/",
+    "archivo": "662ed8bda7adb948.mp3",
+    "bytes": 5469840,
+    "timestamp": 1786713926
+  },
+  {
     "id": "50065d096f84fbd1",
     "titulo": "Primer grito de independencia del Ecuador",
     "fuente": "Ecuador – Rebelion",
@@ -169,14 +178,5 @@
     "archivo": "0476f85ad805e9dc.mp3",
     "bytes": 3473856,
     "timestamp": 1783235844
-  },
-  {
-    "id": "93288eccb26a0137",
-    "titulo": "Chile y Argentina: Dos Estados contra un mismo territorio (fronteras que se derriten al toque del capital)",
-    "fuente": "Columnas – Desinformémonos",
-    "enlace": "https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/",
-    "archivo": "93288eccb26a0137.mp3",
-    "bytes": 1488240,
-    "timestamp": 1783235812
   }
 ]

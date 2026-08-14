@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La ignorancia y la audacia caminan juntas, ¡apoyando a la minería!</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/la-ignorancia-y-la-audacia-caminan-juntas-apoyando-a-la-mineria/</description>
+      <link>https://rebelion.org/la-ignorancia-y-la-audacia-caminan-juntas-apoyando-a-la-mineria/</link>
+      <guid isPermaLink="false">662ed8bda7adb948</guid>
+      <pubDate>Fri, 14 Aug 2026 13:25:26 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/662ed8bda7adb948.mp3" length="5469840" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Primer grito de independencia del Ecuador</title>
       <description>Ecuador – Rebelion — https://rebelion.org/primer-grito-de-independencia-del-ecuador/</description>
       <link>https://rebelion.org/primer-grito-de-independencia-del-ecuador/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">0476f85ad805e9dc</guid>
       <pubDate>Sun, 05 Jul 2026 07:17:24 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/0476f85ad805e9dc.mp3" length="3473856" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Chile y Argentina: Dos Estados contra un mismo territorio (fronteras que se derriten al toque del capital)</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</description>
-      <link>https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</link>
-      <guid isPermaLink="false">93288eccb26a0137</guid>
-      <pubDate>Sun, 05 Jul 2026 07:16:52 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/93288eccb26a0137.mp3" length="1488240" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
