@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Revitalizar el contrato social</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/revitalizar-el-contrato-social/</description>
+      <link>https://rebelion.org/revitalizar-el-contrato-social/</link>
+      <guid isPermaLink="false">1c1928ff65186c60</guid>
+      <pubDate>Tue, 18 Aug 2026 13:02:26 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/1c1928ff65186c60.mp3" length="2107152" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La ignorancia y la audacia caminan juntas, ¡apoyando a la minería!</title>
       <description>Ecuador – Rebelion — https://rebelion.org/la-ignorancia-y-la-audacia-caminan-juntas-apoyando-a-la-mineria/</description>
       <link>https://rebelion.org/la-ignorancia-y-la-audacia-caminan-juntas-apoyando-a-la-mineria/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">b9c7c02dd55c5ef7</guid>
       <pubDate>Sun, 05 Jul 2026 07:18:05 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/b9c7c02dd55c5ef7.mp3" length="3403296" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Cuando el capital invocó a la patria fue para colonizar territorio mapuche</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</description>
-      <link>https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</link>
-      <guid isPermaLink="false">0476f85ad805e9dc</guid>
-      <pubDate>Sun, 05 Jul 2026 07:17:24 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/0476f85ad805e9dc.mp3" length="3473856" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
