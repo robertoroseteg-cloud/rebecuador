@@ -1,5 +1,14 @@
 [
   {
+    "id": "2c22beb941d93678",
+    "titulo": "Ecuador en el segundo período más violento de su historia: 4.882 asesinatos entre enero y julio de 2026",
+    "fuente": "Ecuador – Rebelion",
+    "enlace": "https://rebelion.org/ecuador-en-el-segundo-periodo-mas-violento-de-su-historia-4-882-asesinatos-entre-enero-y-julio-de-2026/",
+    "archivo": "2c22beb941d93678.mp3",
+    "bytes": 1723824,
+    "timestamp": 1787317433
+  },
+  {
     "id": "1c1928ff65186c60",
     "titulo": "Revitalizar el contrato social",
     "fuente": "Ecuador – Rebelion",
@@ -169,14 +178,5 @@
     "archivo": "7c8d7b4aa7411b09.mp3",
     "bytes": 5579136,
     "timestamp": 1783235929
-  },
-  {
-    "id": "b9c7c02dd55c5ef7",
-    "titulo": "Las guerras por Guerrero",
-    "fuente": "Columnas – Desinformémonos",
-    "enlace": "https://desinformemonos.org/las-guerras-por-guerrero-2/",
-    "archivo": "b9c7c02dd55c5ef7.mp3",
-    "bytes": 3403296,
-    "timestamp": 1783235885
   }
 ]
