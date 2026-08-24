@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Monseñor Proaño, 38 años después</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/monsenor-proano-38-anos-despues/</description>
+      <link>https://rebelion.org/monsenor-proano-38-anos-despues/</link>
+      <guid isPermaLink="false">877260671834ba76</guid>
+      <pubDate>Mon, 24 Aug 2026 13:05:58 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/877260671834ba76.mp3" length="2225376" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Ecuador en el segundo período más violento de su historia: 4.882 asesinatos entre enero y julio de 2026</title>
       <description>Ecuador – Rebelion — https://rebelion.org/ecuador-en-el-segundo-periodo-mas-violento-de-su-historia-4-882-asesinatos-entre-enero-y-julio-de-2026/</description>
       <link>https://rebelion.org/ecuador-en-el-segundo-periodo-mas-violento-de-su-historia-4-882-asesinatos-entre-enero-y-julio-de-2026/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">10f3a141924e2553</guid>
       <pubDate>Sun, 19 Jul 2026 06:48:41 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/10f3a141924e2553.mp3" length="912240" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Zulema, la intrépida “Claudia”</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/zulema-la-intrepida-claudia/</description>
-      <link>https://desinformemonos.org/zulema-la-intrepida-claudia/</link>
-      <guid isPermaLink="false">7c8d7b4aa7411b09</guid>
-      <pubDate>Sun, 05 Jul 2026 07:18:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/7c8d7b4aa7411b09.mp3" length="5579136" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

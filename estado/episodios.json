@@ -1,5 +1,14 @@
 [
   {
+    "id": "877260671834ba76",
+    "titulo": "Monseñor Proaño, 38 años después",
+    "fuente": "Ecuador – Rebelion",
+    "enlace": "https://rebelion.org/monsenor-proano-38-anos-despues/",
+    "archivo": "877260671834ba76.mp3",
+    "bytes": 2225376,
+    "timestamp": 1787576758
+  },
+  {
     "id": "2c22beb941d93678",
     "titulo": "Ecuador en el segundo período más violento de su historia: 4.882 asesinatos entre enero y julio de 2026",
     "fuente": "Ecuador – Rebelion",
@@ -169,14 +178,5 @@
     "archivo": "10f3a141924e2553.mp3",
     "bytes": 912240,
     "timestamp": 1784443721
-  },
-  {
-    "id": "7c8d7b4aa7411b09",
-    "titulo": "Zulema, la intrépida “Claudia”",
-    "fuente": "Columnas – Desinformémonos",
-    "enlace": "https://desinformemonos.org/zulema-la-intrepida-claudia/",
-    "archivo": "7c8d7b4aa7411b09.mp3",
-    "bytes": 5579136,
-    "timestamp": 1783235929
   }
 ]
