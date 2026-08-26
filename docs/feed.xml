@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Enfrentar una ecuación perversa</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/enfrentar-una-ecuacion-perversa/</description>
+      <link>https://rebelion.org/enfrentar-una-ecuacion-perversa/</link>
+      <guid isPermaLink="false">5dbbfde9f70e6408</guid>
+      <pubDate>Wed, 26 Aug 2026 13:08:55 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/5dbbfde9f70e6408.mp3" length="4818672" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Monseñor Proaño, 38 años después</title>
       <description>Ecuador – Rebelion — https://rebelion.org/monsenor-proano-38-anos-despues/</description>
       <link>https://rebelion.org/monsenor-proano-38-anos-despues/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">f561893de3198790</guid>
       <pubDate>Sun, 19 Jul 2026 06:49:10 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/f561893de3198790.mp3" length="3164688" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>En defensa de la Universidad Amawtay Wasi</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/en-defensa-de-la-universidad-amawtay-wasi/</description>
-      <link>https://rebelion.org/en-defensa-de-la-universidad-amawtay-wasi/</link>
-      <guid isPermaLink="false">10f3a141924e2553</guid>
-      <pubDate>Sun, 19 Jul 2026 06:48:41 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/10f3a141924e2553.mp3" length="912240" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
