@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Recuerdo de un hecho histórico: Ecuador reconoció al Estado palestino en 2010</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/recuerdo-de-un-hecho-historico-ecuador-reconocio-al-estado-palestino-en-2010/</description>
+      <link>https://rebelion.org/recuerdo-de-un-hecho-historico-ecuador-reconocio-al-estado-palestino-en-2010/</link>
+      <guid isPermaLink="false">60c9afef95abf0d1</guid>
+      <pubDate>Thu, 27 Aug 2026 22:12:47 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/60c9afef95abf0d1.mp3" length="1934496" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Enfrentar una ecuación perversa</title>
       <description>Ecuador – Rebelion — https://rebelion.org/enfrentar-una-ecuacion-perversa/</description>
       <link>https://rebelion.org/enfrentar-una-ecuacion-perversa/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">20362f54110c0966</guid>
       <pubDate>Sun, 19 Jul 2026 06:49:39 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/20362f54110c0966.mp3" length="2437920" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Thriller futbolero</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/thriller-futbolero/</description>
-      <link>https://rebelion.org/thriller-futbolero/</link>
-      <guid isPermaLink="false">f561893de3198790</guid>
-      <pubDate>Sun, 19 Jul 2026 06:49:10 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/f561893de3198790.mp3" length="3164688" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
