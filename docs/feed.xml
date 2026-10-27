@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Alerta internacional por injerencia política en detención de Luisa González</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/alerta-internacional-por-injerencia-politica-en-detencion-de-luisa-gonzalez/</description>
+      <link>https://rebelion.org/alerta-internacional-por-injerencia-politica-en-detencion-de-luisa-gonzalez/</link>
+      <guid isPermaLink="false">f095020ce3e8e164</guid>
+      <pubDate>Tue, 27 Oct 2026 17:53:56 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/f095020ce3e8e164.mp3" length="1042992" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Palantir y EDGE Group: Los nuevos aliados del Gobierno ecuatoriano</title>
       <description>Rebelión · Ecuador — https://rebelion.org/palantir-y-edge-group-los-nuevos-aliados-del-gobierno-ecuatoriano/</description>
       <link>https://rebelion.org/palantir-y-edge-group-los-nuevos-aliados-del-gobierno-ecuatoriano/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">f4e8dd8c110c68f2</guid>
       <pubDate>Mon, 10 Aug 2026 13:36:00 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/f4e8dd8c110c68f2.mp3" length="6819264" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Persecución y «lawfare»: el caso de Aquiles Álvarez, alcalde de Guayaquil</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/persecucion-y-lawfare-el-caso-del-alcalde-de-guayaquil/</description>
-      <link>https://rebelion.org/persecucion-y-lawfare-el-caso-del-alcalde-de-guayaquil/</link>
-      <guid isPermaLink="false">6f6e71fc01376125</guid>
-      <pubDate>Sat, 08 Aug 2026 13:06:19 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/6f6e71fc01376125.mp3" length="5700240" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
