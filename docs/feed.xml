@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>«Nuevo Ecuador»: una colonia con himno nacional</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/nuevo-ecuador-una-colonia-con-himno-nacional/</description>
+      <link>https://rebelion.org/nuevo-ecuador-una-colonia-con-himno-nacional/</link>
+      <guid isPermaLink="false">23912581b5509931</guid>
+      <pubDate>Wed, 28 Oct 2026 18:18:28 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/23912581b5509931.mp3" length="2615184" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Alerta internacional por injerencia política en detención de Luisa González</title>
       <description>Rebelión · Ecuador — https://rebelion.org/alerta-internacional-por-injerencia-politica-en-detencion-de-luisa-gonzalez/</description>
       <link>https://rebelion.org/alerta-internacional-por-injerencia-politica-en-detencion-de-luisa-gonzalez/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">19c505a64f751e2c</guid>
       <pubDate>Tue, 11 Aug 2026 13:28:01 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/19c505a64f751e2c.mp3" length="13124880" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El palenke como laboratorio político</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/el-palenke-como-laboratorio-politico/</description>
-      <link>https://rebelion.org/el-palenke-como-laboratorio-politico/</link>
-      <guid isPermaLink="false">f4e8dd8c110c68f2</guid>
-      <pubDate>Mon, 10 Aug 2026 13:36:00 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/f4e8dd8c110c68f2.mp3" length="6819264" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
