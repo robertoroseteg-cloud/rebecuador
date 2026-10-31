@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Efrén Nango: el nuevo momento de la CONFENIAE</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/efren-nango-el-nuevo-momento-de-la-confeniae/</description>
+      <link>https://rebelion.org/efren-nango-el-nuevo-momento-de-la-confeniae/</link>
+      <guid isPermaLink="false">f00824243fd02174</guid>
+      <pubDate>Sat, 31 Oct 2026 17:13:11 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/f00824243fd02174.mp3" length="7072272" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La voluntad popular atropellada por la dictadura de Noboa</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/la-voluntad-popular-atropellada-por-la-dictadura-de-noboa/</description>
+      <link>https://rebelion.org/la-voluntad-popular-atropellada-por-la-dictadura-de-noboa/</link>
+      <guid isPermaLink="false">a907c2723b72f68b</guid>
+      <pubDate>Sat, 31 Oct 2026 17:11:10 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/a907c2723b72f68b.mp3" length="549072" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>«Nuevo Ecuador»: una colonia con himno nacional</title>
       <description>Rebelión · Ecuador — https://rebelion.org/nuevo-ecuador-una-colonia-con-himno-nacional/</description>
       <link>https://rebelion.org/nuevo-ecuador-una-colonia-con-himno-nacional/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">662ed8bda7adb948</guid>
       <pubDate>Fri, 14 Aug 2026 13:25:26 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/662ed8bda7adb948.mp3" length="5469840" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Primer grito de independencia del Ecuador</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/primer-grito-de-independencia-del-ecuador/</description>
-      <link>https://rebelion.org/primer-grito-de-independencia-del-ecuador/</link>
-      <guid isPermaLink="false">50065d096f84fbd1</guid>
-      <pubDate>Thu, 13 Aug 2026 13:36:36 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/50065d096f84fbd1.mp3" length="2900016" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Miedos, violencias, militarización y neoliberalismo bajo Daniel Noboa</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/miedos-violencias-militarizacion-y-neoliberalismo-bajo-daniel-noboa/</description>
-      <link>https://rebelion.org/miedos-violencias-militarizacion-y-neoliberalismo-bajo-daniel-noboa/</link>
-      <guid isPermaLink="false">19c505a64f751e2c</guid>
-      <pubDate>Tue, 11 Aug 2026 13:28:01 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/19c505a64f751e2c.mp3" length="13124880" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

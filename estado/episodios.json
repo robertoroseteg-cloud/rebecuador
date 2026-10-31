@@ -1,5 +1,23 @@
 [
   {
+    "id": "f00824243fd02174",
+    "titulo": "Efrén Nango: el nuevo momento de la CONFENIAE",
+    "fuente": "Rebelión · Ecuador",
+    "enlace": "https://rebelion.org/efren-nango-el-nuevo-momento-de-la-confeniae/",
+    "archivo": "f00824243fd02174.mp3",
+    "bytes": 7072272,
+    "timestamp": 1793466791
+  },
+  {
+    "id": "a907c2723b72f68b",
+    "titulo": "La voluntad popular atropellada por la dictadura de Noboa",
+    "fuente": "Rebelión · Ecuador",
+    "enlace": "https://rebelion.org/la-voluntad-popular-atropellada-por-la-dictadura-de-noboa/",
+    "archivo": "a907c2723b72f68b.mp3",
+    "bytes": 549072,
+    "timestamp": 1793466670
+  },
+  {
     "id": "23912581b5509931",
     "titulo": "«Nuevo Ecuador»: una colonia con himno nacional",
     "fuente": "Rebelión · Ecuador",
@@ -160,23 +178,5 @@
     "archivo": "662ed8bda7adb948.mp3",
     "bytes": 5469840,
     "timestamp": 1786713926
-  },
-  {
-    "id": "50065d096f84fbd1",
-    "titulo": "Primer grito de independencia del Ecuador",
-    "fuente": "Ecuador – Rebelion",
-    "enlace": "https://rebelion.org/primer-grito-de-independencia-del-ecuador/",
-    "archivo": "50065d096f84fbd1.mp3",
-    "bytes": 2900016,
-    "timestamp": 1786628196
-  },
-  {
-    "id": "19c505a64f751e2c",
-    "titulo": "Miedos, violencias, militarización y neoliberalismo bajo Daniel Noboa",
-    "fuente": "Ecuador – Rebelion",
-    "enlace": "https://rebelion.org/miedos-violencias-militarizacion-y-neoliberalismo-bajo-daniel-noboa/",
-    "archivo": "19c505a64f751e2c.mp3",
-    "bytes": 13124880,
-    "timestamp": 1786454881
   }
 ]
