@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La devaluación de la palabra presidencial</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/la-devaluacion-de-la-palabra-presidencial/</description>
+      <link>https://rebelion.org/la-devaluacion-de-la-palabra-presidencial/</link>
+      <guid isPermaLink="false">c3dc7e8db6437bb4</guid>
+      <pubDate>Mon, 09 Nov 2026 22:15:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/c3dc7e8db6437bb4.mp3" length="1348992" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Noboa reafirma su estado de sumisión frente al Gobierno de Trump</title>
       <description>Rebelión · Ecuador — https://rebelion.org/noboa-reafirma-su-estado-de-sumision-frente-al-gobierno-de-trump/</description>
       <link>https://rebelion.org/noboa-reafirma-su-estado-de-sumision-frente-al-gobierno-de-trump/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">2c22beb941d93678</guid>
       <pubDate>Fri, 21 Aug 2026 13:03:53 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/2c22beb941d93678.mp3" length="1723824" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Revitalizar el contrato social</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/revitalizar-el-contrato-social/</description>
-      <link>https://rebelion.org/revitalizar-el-contrato-social/</link>
-      <guid isPermaLink="false">1c1928ff65186c60</guid>
-      <pubDate>Tue, 18 Aug 2026 13:02:26 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/1c1928ff65186c60.mp3" length="2107152" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
