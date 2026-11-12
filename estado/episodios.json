@@ -1,5 +1,14 @@
 [
   {
+    "id": "a5c5fd4e0784b8e7",
+    "titulo": "Los impactos destructivos de la minería son eternos",
+    "fuente": "Rebelión · Ecuador",
+    "enlace": "https://rebelion.org/los-impactos-destructivos-de-la-mineria-son-eternos/",
+    "archivo": "a5c5fd4e0784b8e7.mp3",
+    "bytes": 4447296,
+    "timestamp": 1794512975
+  },
+  {
     "id": "c3dc7e8db6437bb4",
     "titulo": "La devaluación de la palabra presidencial",
     "fuente": "Rebelión · Ecuador",
@@ -169,14 +178,5 @@
     "archivo": "877260671834ba76.mp3",
     "bytes": 2225376,
     "timestamp": 1787576758
-  },
-  {
-    "id": "2c22beb941d93678",
-    "titulo": "Ecuador en el segundo período más violento de su historia: 4.882 asesinatos entre enero y julio de 2026",
-    "fuente": "Ecuador – Rebelion",
-    "enlace": "https://rebelion.org/ecuador-en-el-segundo-periodo-mas-violento-de-su-historia-4-882-asesinatos-entre-enero-y-julio-de-2026/",
-    "archivo": "2c22beb941d93678.mp3",
-    "bytes": 1723824,
-    "timestamp": 1787317433
   }
 ]

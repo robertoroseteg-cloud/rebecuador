@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Los impactos destructivos de la minería son eternos</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/los-impactos-destructivos-de-la-mineria-son-eternos/</description>
+      <link>https://rebelion.org/los-impactos-destructivos-de-la-mineria-son-eternos/</link>
+      <guid isPermaLink="false">a5c5fd4e0784b8e7</guid>
+      <pubDate>Thu, 12 Nov 2026 19:49:35 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/a5c5fd4e0784b8e7.mp3" length="4447296" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La devaluación de la palabra presidencial</title>
       <description>Rebelión · Ecuador — https://rebelion.org/la-devaluacion-de-la-palabra-presidencial/</description>
       <link>https://rebelion.org/la-devaluacion-de-la-palabra-presidencial/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">877260671834ba76</guid>
       <pubDate>Mon, 24 Aug 2026 13:05:58 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/877260671834ba76.mp3" length="2225376" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Ecuador en el segundo período más violento de su historia: 4.882 asesinatos entre enero y julio de 2026</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/ecuador-en-el-segundo-periodo-mas-violento-de-su-historia-4-882-asesinatos-entre-enero-y-julio-de-2026/</description>
-      <link>https://rebelion.org/ecuador-en-el-segundo-periodo-mas-violento-de-su-historia-4-882-asesinatos-entre-enero-y-julio-de-2026/</link>
-      <guid isPermaLink="false">2c22beb941d93678</guid>
-      <pubDate>Fri, 21 Aug 2026 13:03:53 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/2c22beb941d93678.mp3" length="1723824" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
