@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>¿Ecuador sigue siendo una democracia?</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/ecuador-sigue-siendo-una-democracia/</description>
+      <link>https://rebelion.org/ecuador-sigue-siendo-una-democracia/</link>
+      <guid isPermaLink="false">8254e69aa26bfbfe</guid>
+      <pubDate>Fri, 13 Nov 2026 19:32:36 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/8254e69aa26bfbfe.mp3" length="3349296" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Los impactos destructivos de la minería son eternos</title>
       <description>Rebelión · Ecuador — https://rebelion.org/los-impactos-destructivos-de-la-mineria-son-eternos/</description>
       <link>https://rebelion.org/los-impactos-destructivos-de-la-mineria-son-eternos/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">5dbbfde9f70e6408</guid>
       <pubDate>Wed, 26 Aug 2026 13:08:55 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/5dbbfde9f70e6408.mp3" length="4818672" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Monseñor Proaño, 38 años después</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/monsenor-proano-38-anos-despues/</description>
-      <link>https://rebelion.org/monsenor-proano-38-anos-despues/</link>
-      <guid isPermaLink="false">877260671834ba76</guid>
-      <pubDate>Mon, 24 Aug 2026 13:05:58 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/877260671834ba76.mp3" length="2225376" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
