@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Los dioses indígenas del Ecuador</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/los-dioses-indigenas-del-ecuador/</description>
+      <link>https://rebelion.org/los-dioses-indigenas-del-ecuador/</link>
+      <guid isPermaLink="false">044ee9bf38e9c994</guid>
+      <pubDate>Sat, 14 Nov 2026 17:58:25 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/044ee9bf38e9c994.mp3" length="9320688" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>¿Ecuador sigue siendo una democracia?</title>
       <description>Rebelión · Ecuador — https://rebelion.org/ecuador-sigue-siendo-una-democracia/</description>
       <link>https://rebelion.org/ecuador-sigue-siendo-una-democracia/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">60c9afef95abf0d1</guid>
       <pubDate>Thu, 27 Aug 2026 22:12:47 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/60c9afef95abf0d1.mp3" length="1934496" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Enfrentar una ecuación perversa</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/enfrentar-una-ecuacion-perversa/</description>
-      <link>https://rebelion.org/enfrentar-una-ecuacion-perversa/</link>
-      <guid isPermaLink="false">5dbbfde9f70e6408</guid>
-      <pubDate>Wed, 26 Aug 2026 13:08:55 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/5dbbfde9f70e6408.mp3" length="4818672" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
