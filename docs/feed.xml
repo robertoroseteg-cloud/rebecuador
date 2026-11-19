@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Tiempos nuevos y nuevas oportunidades</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/tiempos-nuevos-y-nuevas-oportunidades/</description>
+      <link>https://rebelion.org/tiempos-nuevos-y-nuevas-oportunidades/</link>
+      <guid isPermaLink="false">7506bc06d2d3b773</guid>
+      <pubDate>Thu, 19 Nov 2026 20:28:00 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/7506bc06d2d3b773.mp3" length="2389824" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Pescadores ecuatorianos demandarán a EE.UU. tras ser atacados en el Pacífico</title>
       <description>Rebelión · Ecuador — https://rebelion.org/pescadores-ecuatorianos-demandaran-a-ee-uu-tras-ser-atacados-en-el-pacifico/</description>
       <link>https://rebelion.org/pescadores-ecuatorianos-demandaran-a-ee-uu-tras-ser-atacados-en-el-pacifico/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">5c09e9e18a00cd6c</guid>
       <pubDate>Sat, 24 Oct 2026 05:56:15 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/5c09e9e18a00cd6c.mp3" length="1558656" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El alabao, un canto a la vida</title>
-      <description>Rebelión · Ecuador — https://rebelion.org/el-alabao-un-canto-a-la-vida/</description>
-      <link>https://rebelion.org/el-alabao-un-canto-a-la-vida/</link>
-      <guid isPermaLink="false">c1d45d9fc02a796f</guid>
-      <pubDate>Sat, 24 Oct 2026 05:55:46 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/c1d45d9fc02a796f.mp3" length="4458384" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
