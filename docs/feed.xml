@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Elecciones locales contra la sombra del autoritarismo</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/elecciones-locales-contra-la-sombra-del-autoritarismo/</description>
+      <link>https://rebelion.org/elecciones-locales-contra-la-sombra-del-autoritarismo/</link>
+      <guid isPermaLink="false">c385ac160f4fbb7f</guid>
+      <pubDate>Fri, 20 Nov 2026 19:58:42 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/c385ac160f4fbb7f.mp3" length="2242512" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tiempos nuevos y nuevas oportunidades</title>
       <description>Rebelión · Ecuador — https://rebelion.org/tiempos-nuevos-y-nuevas-oportunidades/</description>
       <link>https://rebelion.org/tiempos-nuevos-y-nuevas-oportunidades/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">0423216f4c94a8f0</guid>
       <pubDate>Sat, 24 Oct 2026 05:57:37 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/0423216f4c94a8f0.mp3" length="5343264" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Crisis carcelaria en Ecuador</title>
-      <description>Rebelión · Ecuador — https://rebelion.org/crisis-carcelaria-en-ecuador/</description>
-      <link>https://rebelion.org/crisis-carcelaria-en-ecuador/</link>
-      <guid isPermaLink="false">5c09e9e18a00cd6c</guid>
-      <pubDate>Sat, 24 Oct 2026 05:56:15 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/5c09e9e18a00cd6c.mp3" length="1558656" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
