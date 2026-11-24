@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Tripulantes de nueve embarcaciones demandarán al Estado por desprotección</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/tripulantes-de-nueve-embarcaciones-demandaran-al-estado-por-desproteccion/</description>
+      <link>https://rebelion.org/tripulantes-de-nueve-embarcaciones-demandaran-al-estado-por-desproteccion/</link>
+      <guid isPermaLink="false">5c6af35db518a0e9</guid>
+      <pubDate>Tue, 24 Nov 2026 22:17:34 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/5c6af35db518a0e9.mp3" length="631008" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Elecciones locales contra la sombra del autoritarismo</title>
       <description>Rebelión · Ecuador — https://rebelion.org/elecciones-locales-contra-la-sombra-del-autoritarismo/</description>
       <link>https://rebelion.org/elecciones-locales-contra-la-sombra-del-autoritarismo/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">1ccbc118577ac34c</guid>
       <pubDate>Sat, 24 Oct 2026 05:58:04 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/1ccbc118577ac34c.mp3" length="1311408" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Ecuador rejuvenece en la protesta</title>
-      <description>Rebelión · Ecuador — https://rebelion.org/ecuador-rejuvenece-en-la-protesta/</description>
-      <link>https://rebelion.org/ecuador-rejuvenece-en-la-protesta/</link>
-      <guid isPermaLink="false">0423216f4c94a8f0</guid>
-      <pubDate>Sat, 24 Oct 2026 05:57:37 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/0423216f4c94a8f0.mp3" length="5343264" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
