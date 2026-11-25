@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Desterrar la dictadura</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/desterrar-la-dictadura/</description>
+      <link>https://rebelion.org/desterrar-la-dictadura/</link>
+      <guid isPermaLink="false">9ae332cb4afc8f5b</guid>
+      <pubDate>Wed, 25 Nov 2026 21:35:01 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/9ae332cb4afc8f5b.mp3" length="2341296" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tripulantes de nueve embarcaciones demandarán al Estado por desprotección</title>
       <description>Rebelión · Ecuador — https://rebelion.org/tripulantes-de-nueve-embarcaciones-demandaran-al-estado-por-desproteccion/</description>
       <link>https://rebelion.org/tripulantes-de-nueve-embarcaciones-demandaran-al-estado-por-desproteccion/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">fdfba1939826d74f</guid>
       <pubDate>Sat, 24 Oct 2026 05:58:12 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/fdfba1939826d74f.mp3" length="664848" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Acción de protección ante la incomunicación sufrida por las personas detenidas en la cárcel de Santa Elena</title>
-      <description>Rebelión · Ecuador — https://rebelion.org/accion-de-proteccion-ante-la-incomunicacion-sufrida-por-las-personas-privadas-de-libertad-en-la-carcel-de-santa-elena/</description>
-      <link>https://rebelion.org/accion-de-proteccion-ante-la-incomunicacion-sufrida-por-las-personas-privadas-de-libertad-en-la-carcel-de-santa-elena/</link>
-      <guid isPermaLink="false">1ccbc118577ac34c</guid>
-      <pubDate>Sat, 24 Oct 2026 05:58:04 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/1ccbc118577ac34c.mp3" length="1311408" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
