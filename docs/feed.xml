@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Elecciones 2026: entre el discurso local y la realidad nacional</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/elecciones-2026-entre-el-discurso-local-y-la-realidad-nacional/</description>
+      <link>https://rebelion.org/elecciones-2026-entre-el-discurso-local-y-la-realidad-nacional/</link>
+      <guid isPermaLink="false">58122157e278f2c9</guid>
+      <pubDate>Thu, 26 Nov 2026 21:22:53 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/58122157e278f2c9.mp3" length="2245248" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Desterrar la dictadura</title>
       <description>Rebelión · Ecuador — https://rebelion.org/desterrar-la-dictadura/</description>
       <link>https://rebelion.org/desterrar-la-dictadura/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">0f2ba3c449be3e2a</guid>
       <pubDate>Sat, 24 Oct 2026 05:58:45 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/0f2ba3c449be3e2a.mp3" length="2201904" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Homicidios de niños y adolescentes, un récord que debería avergonzar</title>
-      <description>Rebelión · Ecuador — https://rebelion.org/homicidios-de-ninos-y-adolescentes-un-record-que-deberia-avergonzar/</description>
-      <link>https://rebelion.org/homicidios-de-ninos-y-adolescentes-un-record-que-deberia-avergonzar/</link>
-      <guid isPermaLink="false">fdfba1939826d74f</guid>
-      <pubDate>Sat, 24 Oct 2026 05:58:12 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/fdfba1939826d74f.mp3" length="664848" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
