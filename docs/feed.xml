@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La guerra contra las drogas y la historia detrás de ella están fracasando en Ecuador</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/la-guerra-contra-las-drogas-y-la-historia-detras-de-ella-estan-fracasando-en-ecuador/</description>
+      <link>https://rebelion.org/la-guerra-contra-las-drogas-y-la-historia-detras-de-ella-estan-fracasando-en-ecuador/</link>
+      <guid isPermaLink="false">e491e274b52c5ccc</guid>
+      <pubDate>Fri, 27 Nov 2026 21:04:34 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/e491e274b52c5ccc.mp3" length="5643504" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Elecciones 2026: entre el discurso local y la realidad nacional</title>
       <description>Rebelión · Ecuador — https://rebelion.org/elecciones-2026-entre-el-discurso-local-y-la-realidad-nacional/</description>
       <link>https://rebelion.org/elecciones-2026-entre-el-discurso-local-y-la-realidad-nacional/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">15763d209ce56f89</guid>
       <pubDate>Sat, 24 Oct 2026 05:59:29 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/15763d209ce56f89.mp3" length="3250224" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Oración por la paz y la justicia en Palestina</title>
-      <description>Rebelión · Ecuador — https://rebelion.org/oracion-por-la-paz-y-la-justicia-en-palestina/</description>
-      <link>https://rebelion.org/oracion-por-la-paz-y-la-justicia-en-palestina/</link>
-      <guid isPermaLink="false">0f2ba3c449be3e2a</guid>
-      <pubDate>Sat, 24 Oct 2026 05:58:45 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/0f2ba3c449be3e2a.mp3" length="2201904" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
