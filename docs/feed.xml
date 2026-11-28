@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Elecciones seccionales en el «Nuevo Ecuador» de Daniel Noboa</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/elecciones-seccionales-en-el-nuevo-ecuador-de-daniel-noboa/</description>
+      <link>https://rebelion.org/elecciones-seccionales-en-el-nuevo-ecuador-de-daniel-noboa/</link>
+      <guid isPermaLink="false">08cdd6436988e5e7</guid>
+      <pubDate>Sat, 28 Nov 2026 19:59:17 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/08cdd6436988e5e7.mp3" length="9558288" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La guerra contra las drogas y la historia detrás de ella están fracasando en Ecuador</title>
       <description>Rebelión · Ecuador — https://rebelion.org/la-guerra-contra-las-drogas-y-la-historia-detras-de-ella-estan-fracasando-en-ecuador/</description>
       <link>https://rebelion.org/la-guerra-contra-las-drogas-y-la-historia-detras-de-ella-estan-fracasando-en-ecuador/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">a37775d056d5be67</guid>
       <pubDate>Sat, 24 Oct 2026 06:03:40 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/a37775d056d5be67.mp3" length="14985072" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Una huella para descolonizar nuestra memoria</title>
-      <description>Rebelión · Ecuador — https://rebelion.org/una-huella-para-descolonizar-nuestra-memoria/</description>
-      <link>https://rebelion.org/una-huella-para-descolonizar-nuestra-memoria/</link>
-      <guid isPermaLink="false">15763d209ce56f89</guid>
-      <pubDate>Sat, 24 Oct 2026 05:59:29 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecuador/episodios/15763d209ce56f89.mp3" length="3250224" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
